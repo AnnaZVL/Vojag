@@ -520,7 +520,7 @@ body {
 .basket__card-img {
     border-radius: 15px;
     width: 30%;
-    background-image: url(./img/basket.png);
+    background-image: url(../img//basket.png);
 }
 
 .basket__card-descr {
@@ -654,7 +654,7 @@ body {
 
 .hero__wrapper {
     margin: 0 auto;
-    background-image: url(./img/baner_1920.png);
+    background-image: url(../img//baner_1920.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;    
@@ -885,19 +885,19 @@ body {
 }
 
 .card__img1 {
-    background-image: url(./img/cards/card1.png);
+    background-image: url(../img//cards/card1.png);
 }
 
 .card__img2 {
-    background-image: url(./img/cards/card2.png);
+    background-image: url(../img//cards/card2.png);
 }
 
 .card__img3 {
-    background-image: url(./img/cards/card3.png);
+    background-image: url(../img//cards/card3.png);
 }
 
 .card__img4 {
-    background-image: url(./img/cards/card4.png);
+    background-image: url(../img//cards/card4.png);
 }
 
 .card__descr {
@@ -1053,23 +1053,23 @@ body {
 }
 
 .card__img1_1 {
-    background-image: url(./img/cards/card1_1.png);
+    background-image: url(../img//cards/card1_1.png);
 }
 
 .card__img1_2 {
-    background-image: url(./img/cards/card1_2.png);
+    background-image: url(../img//cards/card1_2.png);
 }
 
 .card__img2_1 {
-    background-image: url(./img/cards/card2_1.png);
+    background-image: url(../img//cards/card2_1.png);
 }
 
 .card__img2_2 {
-    background-image: url(./img/cards/card2_2.png);
+    background-image: url(../img//cards/card2_2.png);
 }
 
 .card__img2_3 {
-    background-image: url(./img/cards/card2_3.png);
+    background-image: url(../img//cards/card2_3.png);
 }
 
 .card__big-name {
@@ -1201,19 +1201,19 @@ body {
 }
 
 .card__img-slide1 {
-    background-image: url(./img/slider/card_1.png);
+    background-image: url(../img//slider/card_1.png);
 }
 
 .card__img-slide2 {
-    background-image: url(./img/slider/card_2.png);
+    background-image: url(../img//slider/card_2.png);
 }
 
 .card__img-slide3 {
-    background-image: url(./img/slider/card_3.png);
+    background-image: url(../img//slider/card_3.png);
 }
 
 .card__img-slide4 {
-    background-image: url(./img/slider/card_4.png);
+    background-image: url(../img//slider/card_4.png);
 }
 
 /*Анимация*/
